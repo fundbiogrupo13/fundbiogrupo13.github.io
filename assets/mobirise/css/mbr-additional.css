@@ -255,23 +255,23 @@ body {
 .btn-white:active {
   background-color: #fafafa !important;
   border-color: #fafafa !important;
-  color: #7a7a7a !important;
+  color: #1C002E !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-white:hover,
 .btn-white:focus,
 .btn-white.focus,
 .btn-white.active {
-  color: #4f4f4f !important;
-  background-color: #cfcfcf !important;
-  border-color: #cfcfcf !important;
+  color: #ffffff !important;
+  background-color: #efbcb5 !important;
+  border-color: #efbcb5 !important;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-white.disabled,
 .btn-white:disabled {
   color: #7a7a7a !important;
-  background-color: #cfcfcf !important;
-  border-color: #cfcfcf !important;
+  background-color: #efbcb5 !important;
+  border-color: #efbcb5 !important;
 }
 .btn-black,
 .btn-black:active {
@@ -1951,7 +1951,7 @@ a {
 .cid-sanyr8aeaf {
   padding-top: 8rem;
   padding-bottom: 5rem;
-  background-image: url("../../images/mbr-2-1920x1920.png");
+  background-image: url("../../images/ENTREGABLE_1_FONDO.jpg");
 }
 .cid-sanyr8aeaf .card-wrapper {
   background: #ffffff;
@@ -5691,14 +5691,26 @@ a {
 .cid-saFlgp5VX2 {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("../../images/mbr-1920x1440.png");
+  background-image: url("../../images/ENTREGABLE_3_FONDO.jpg");
 }
 .cid-saFlgp5VX2 .mbr-section-title {
-  color: #8e8888;
+  color: #1C002E;
 }
 .cid-saFlgp5VX2 .mbr-text,
 .cid-saFlgp5VX2 .mbr-section-btn {
-  color: #40b0bf;
+  color: #1C002E;
+}
+.cid-saFlgp5VX3 {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-image: url("../../images/ACTAS_FONDO.jpg");
+}
+.cid-saFlgp5VX3 .mbr-section-title {
+  color: #1C002E;
+}
+.cid-saFlgp5VX3 .mbr-text,
+.cid-saFlgp5VX3 .mbr-section-btn {
+  color: #1C002E;
 }
 .cid-s48OLK6784 {
   z-index: 1000;
